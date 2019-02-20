@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b69ec4e4-7c6f-4a1c-a4e3-601468ebcaed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/trasnlating.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/trasnlating.html" afterDir="false" />
-    </list>
+    <list default="true" id="b69ec4e4-7c6f-4a1c-a4e3-601468ebcaed" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/templates/trasnlating.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -315,7 +313,7 @@
     <entry file="file://$PROJECT_DIR$/templates/trasnlating.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
