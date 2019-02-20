@@ -1,0 +1,16 @@
+<h1>Learn new words here!</h1>
+
+<form action="">
+    translate:
+    <input type="text",  name="word", autocomplete="off">
+    <br>
+    {{ translation }}
+</form>
+
+<br>
+{%for word, translation in dictionary%}
+
+{{word}} : {{translation}}
+<br>
+
+{%endfor%}
